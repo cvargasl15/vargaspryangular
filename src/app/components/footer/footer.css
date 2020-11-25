@@ -1,0 +1,31 @@
+.foot {
+    color: grey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(116, 190, 224);
+    display: flex;
+}
+
+.izq {
+    width: 80%;
+    margin-top: 3px;
+    display: flex;
+    margin-left: 1%;
+}
+
+.izlet {
+    color: rgb(0, 54, 136);
+    margin-left: 1%;
+}
+
+p {
+    margin-top: -2px;
+    margin-bottom: 0px;
+    color: rgb(0, 54, 136);
+}
+
+der {
+    color: rgb(0, 54, 136);
+    width: 30%;
+}
